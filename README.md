@@ -1,8 +1,14 @@
 # 2D-Carbon-Database
+## Basic Information
+Database for 2D Carbon structure sheets, developed by the research group led by Professor Qian Wang from the School of Materials Science and Engineering at Peking University.
 
-Database for 2D Carbon sheets, developed by the research group led by Professor Qian Wang from the School of Materials Science and Engineering at Peking University.
+> Database website: https://femisphere.github.io/2D-Carbon-Database/
+>
+> Personal homepage of Professor Qian Wang: http://www2.coe.pku.edu.cn/subpaget.asp?id=542
+>
+> Last updated: 2025/06
 
-_website: https://femisphere.github.io/2D-Carbon-Database/_
+## Introduction
 
 Welcome to 2D carbon structure database!
 
