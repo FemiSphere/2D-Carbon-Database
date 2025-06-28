@@ -2,10 +2,10 @@
 ## Basic Information
 Database for 2D Carbon structure sheets, developed by the research group led by Professor Qian Wang from the School of Materials Science and Engineering at Peking University.
 
-> Database website: https://2dcarbon-db.pages.dev/
+> Database website: https://2dcarbon-db.pages.dev/ , the equivalent address is [https://femisphere.github.io/Penta-Database/](https://femisphere.github.io/2D-Carbon-Database/)
 >
 > Personal homepage of Professor Qian Wang: http://www2.coe.pku.edu.cn/subpaget.asp?id=542
->
+> 
 > Last updated: 2025/06
 
 ## Introduction
